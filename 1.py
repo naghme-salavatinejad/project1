@@ -14,3 +14,6 @@ print('division =', my_var01/ my_var02)
 print ('100 + 25 =' , 100+25)
 print(my_var01 , '+' , my_var02 , ' = ' , my_var01 + my_var02)
 x=input("enter 1st number:")
+
+
+
